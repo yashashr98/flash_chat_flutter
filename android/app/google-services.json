@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "390887043861",
+    "project_id": "flashchat3-e6941",
+    "storage_bucket": "flashchat3-e6941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390887043861:android:a5b4e39a80b58b6bb5af1c",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_three"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390887043861-e5f0s8e8m8qpqrejp3o4aj5ing49s24r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbcs1gYxZ9YX1W3MOn4jWG2NkksPm0P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390887043861-e5f0s8e8m8qpqrejp3o4aj5ing49s24r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390887043861:android:d2cd21e36ebba613b5af1c",
+        "android_client_info": {
+          "package_name": "com.yashupa.flashchat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390887043861-e5f0s8e8m8qpqrejp3o4aj5ing49s24r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbcs1gYxZ9YX1W3MOn4jWG2NkksPm0P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390887043861-e5f0s8e8m8qpqrejp3o4aj5ing49s24r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
